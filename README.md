@@ -3,4 +3,6 @@ Web Scraping with Python - Beautiful Soup
 
 ---
 ## WEB SCRAPING - Basic HTML web scraping
+### Install Library:
+`pip install beautifulsoup4`
 
