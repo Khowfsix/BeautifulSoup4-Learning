@@ -19,3 +19,9 @@ pip install lxml
 pip install requests 
 ```
 
+## Import thư viện
+
+```python
+import requests
+from bs4 import BeautifulSoup
+```
