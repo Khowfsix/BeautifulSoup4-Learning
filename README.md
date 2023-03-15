@@ -6,20 +6,20 @@ Web Scraping with Python - Beautiful Soup
 
 ## WEB SCRAPING - Basic HTML web scraping
 
-### Install library
+### Cài đặt thư viện
 
 ```console
 pip install beautifulsoup4
 ```
 
-### Install other libraries that will use
+### Cài đặt các thư viện khác có thể sử dụng
 
 ```console
 pip install lxml
 pip install requests 
 ```
 
-## Import thư viện
+### Import thư viện
 
 ```python
 import requests
